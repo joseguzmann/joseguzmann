@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hey, welcome to my GitHub profile
 
+<h2>I am José Guzmán 👋</h2>
+<h3> Computer Science Engineering student at <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a><h3>
 <!--
 **joseguzmann/joseguzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
