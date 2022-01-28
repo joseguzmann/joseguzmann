@@ -10,6 +10,15 @@
 
 ### Glad to see you here! &nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joseguzmann.joseguzmann)
 
+Hey, I am a Computer Science Engineering student at Escuela Politécnica Nacional on Ecuador. Looking to improve my knowledge in order to make a better world!
+
+<ul>
+  <li>:frowning_man: I'm currently working on my personal brand</li>
+  <li>:computer: I'm currently learning front-end web development with JS frameworks</li>
+  <li>:speech_balloon:: Contact me through: <a href="https://mail.google.com/mail/u/jg175415@gmail.com">jg175415@gmail.com</a></li>
+  <li>Fun fact: I love :guitar: and :weight_lifting_man:</li>
+</ul>
+
 ## Languages and Tools
 <div align="center">
   <img src="https://user-images.githubusercontent.com/81053917/151485620-6ab6613a-3606-434b-92a5-728326c4d23f.png" width="50">&nbsp;
@@ -27,6 +36,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseguzmann&show_icons=true&theme=dark" />
   </a>
+  <br>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseguzmann&layout=compact&theme=dark" />
   </a>
