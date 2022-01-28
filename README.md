@@ -1,4 +1,5 @@
-# Hey, welcome to my GitHub profile
+![portada2](https://user-images.githubusercontent.com/81053917/151477615-dbcf112e-b2b4-4666-98c3-4885213ed848.png)
+
 
 <h2>I am José Guzmán 👋</h2>
 <h3> Computer Science Engineering student at <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a><h3>
