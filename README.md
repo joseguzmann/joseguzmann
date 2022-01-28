@@ -1,4 +1,4 @@
-![portada2](https://user-images.githubusercontent.com/81053917/151477615-dbcf112e-b2b4-4666-98c3-4885213ed848.png)
+![portada2](https://user-images.githubusercontent.com/81053917/151478258-c67d5c69-cb3a-402e-b161-a782bf74ea00.png)
 
 
 <h2>I am José Guzmán 👋</h2>
