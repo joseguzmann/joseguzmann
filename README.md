@@ -16,7 +16,7 @@ Hey, I am a Computer Science Engineering student at Escuela Politécnica Naciona
   <li>:frowning_man: I'm currently working on my personal brand</li>
   <li>:computer: I'm currently learning front-end web development with JS frameworks</li>
   <li>:speech_balloon:: Contact me through: <a href="https://mail.google.com/mail/u/jg175415@gmail.com">jg175415@gmail.com</a></li>
-  <li>Fun fact: I love :guitar: and :weight_lifting_man:</li>
+  <li>:zap: Fun fact: I love :guitar: and :weight_lifting_man:</li>
 </ul>
 
 ## Languages and Tools
