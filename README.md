@@ -1,10 +1,14 @@
 ![portada2](https://user-images.githubusercontent.com/81053917/151478258-c67d5c69-cb3a-402e-b161-a782bf74ea00.png)
 
+# Hi there, I'm José Guzmán 👋
 
-<h2>I am José Guzmán 👋</h2>
-<h3> Computer Science Engineering student at <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a><h3>
-<!--
-**joseguzmann/joseguzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/joseguzmann" target="_blank"><img src="https://user-images.githubusercontent.com/81053917/151481939-592132c3-f2b2-421a-bb97-8b84f469d49b.png" width="50"></a>&nbsp;
+<a href="https://twitter.com/joseguzmanno" target="_blank"><img src="https://user-images.githubusercontent.com/81053917/151482359-4ea2883b-b732-4907-957a-fd58c2b1721e.png" width="50"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jos%C3%A9-guzm%C3%A1n-4a7365113/" target="_blank"><img src="https://user-images.githubusercontent.com/81053917/151482360-93db9fc3-f024-4d2f-9af4-feafa56b792c.png" width="50"></a>&nbsp;
+</div>
+
+### Glad to see you here! &nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joseguzmann.joseguzmann)
 
 Here are some ideas to get you started:
 
