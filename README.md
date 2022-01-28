@@ -10,19 +10,24 @@
 
 ### Glad to see you here! &nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joseguzmann.joseguzmann)
 
+## Languages and Tools
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/81053917/151485620-6ab6613a-3606-434b-92a5-728326c4d23f.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151485616-05e2401b-ee9a-4fe2-bd28-8474b422b3f2.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151485612-4e4cf5b6-38df-4b08-aa8c-40798aa17f05.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151486000-c089c3b8-82ea-47a3-a2d4-630a6f4a3581.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151485624-f7a9c190-d98c-42b3-a1e3-b937f70bf009.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151485615-66e56ebf-822b-4eb7-9a8f-84469f505a4e.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/151485996-bda6f013-4e0a-439a-8694-b07b85350971.png" width="50">&nbsp;
+</div>
+
 ## Github Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseguzmann&show_icons=true&theme=dark" />
   </a>
-</div>
-<br>
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseguzmann&layout=compact&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
   </a>
 </div>
