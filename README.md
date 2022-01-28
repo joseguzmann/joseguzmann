@@ -12,5 +12,18 @@
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseguzmann&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseguzmann&layout=compact&theme="dark")](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseguzmann&show_icons=true&theme=dark" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseguzmann&layout=compact&theme=dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
+  </a>
+</div>
