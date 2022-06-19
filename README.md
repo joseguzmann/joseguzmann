@@ -1,5 +1,3 @@
-![portada2](https://user-images.githubusercontent.com/81053917/151478258-c67d5c69-cb3a-402e-b161-a782bf74ea00.png)
-
 # Hi there, I'm José Guzmán 👋
 
 <div align="center">
@@ -14,10 +12,9 @@
 Hey, I am a Computer Science Engineering student at Escuela Politécnica Nacional on Ecuador. 
 
 <ul>
-  <li>:frowning_man: I'm currently working on my personal brand</li>
-  <li>:computer: I'm currently learning front-end web development with JS frameworks</li>
+  <li>:frowning_man: Currently working on my personal brand</li>
+  <li>:computer: Learning front-end web development with JS frameworks</li>
   <li>:speech_balloon:: Contact me through: <a href="https://mail.google.com/mail/u/jg175415@gmail.com">jg175415@gmail.com</a></li>
-  <!--<li>:zap: Fun fact: I love :guitar: and :weight_lifting_man:</li>-->
 </ul>
 
 ## Languages and Tools
@@ -28,7 +25,6 @@ Hey, I am a Computer Science Engineering student at Escuela Politécnica Naciona
   <img src="https://user-images.githubusercontent.com/81053917/151486000-c089c3b8-82ea-47a3-a2d4-630a6f4a3581.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/151485624-f7a9c190-d98c-42b3-a1e3-b937f70bf009.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/151485615-66e56ebf-822b-4eb7-9a8f-84469f505a4e.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151485996-bda6f013-4e0a-439a-8694-b07b85350971.png" width="50">&nbsp;
 </div>
 
 ## Github Stats
