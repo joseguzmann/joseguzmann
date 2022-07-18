@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=joseguzmann.joseguzmann)
 
-Hey, I am a Computer Science Engineering student at Escuela Politécnica Nacional on Ecuador. 
+I am a Computer Science Engineering student at Escuela Politécnica Nacional on Ecuador. 
 
 <ul>
   <li>:frowning_man: Currently working on my personal brand</li>
