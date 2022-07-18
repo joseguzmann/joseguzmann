@@ -27,8 +27,8 @@ I am a Computer Science Engineering student at Escuela Politécnica Nacional on 
   <img src="https://user-images.githubusercontent.com/81053917/179447191-67b046ab-a3e2-47da-8625-be35e4665547.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/179447074-d2a1d451-e9a4-4e41-8607-bc0b81471adb.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/179447088-bddc8ccd-8694-4a5b-872e-43ef0445feb1.png" width="55">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/179447104-26110e42-7726-4482-bc05-fe6e052550ec.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/179447114-f7532bdb-8b15-466d-bed7-72109fe10adf.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447104-26110e42-7726-4482-bc05-fe6e052550ec.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/179447119-828f27dd-06cb-4aad-b4c2-c1a2949fa8ed.png" width="50">&nbsp;
   <img src="https://user-images.githubusercontent.com/81053917/179447402-622b5734-26eb-4a64-8b42-56990cccd852.png" width="55">&nbsp;
 </div>
