@@ -19,12 +19,16 @@ Hey, I am a Computer Science Engineering student at Escuela Politécnica Naciona
 
 ## Languages and Tools
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/81053917/151485620-6ab6613a-3606-434b-92a5-728326c4d23f.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151485616-05e2401b-ee9a-4fe2-bd28-8474b422b3f2.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151485612-4e4cf5b6-38df-4b08-aa8c-40798aa17f05.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151486000-c089c3b8-82ea-47a3-a2d4-630a6f4a3581.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151485624-f7a9c190-d98c-42b3-a1e3-b937f70bf009.png" width="50">&nbsp;
-  <img src="https://user-images.githubusercontent.com/81053917/151485615-66e56ebf-822b-4eb7-9a8f-84469f505a4e.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447292-6de21e13-31fb-4ccc-8cc9-d63d073b227b.png" width="40">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179446959-5a63e0e2-b47c-48da-bcf0-470ed8e9fbfa.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447058-47bb62a4-97c7-4ced-8112-8d77e8bc4f3a.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447191-67b046ab-a3e2-47da-8625-be35e4665547.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447074-d2a1d451-e9a4-4e41-8607-bc0b81471adb.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447088-bddc8ccd-8694-4a5b-872e-43ef0445feb1.png" width="55">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447104-26110e42-7726-4482-bc05-fe6e052550ec.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447114-f7532bdb-8b15-466d-bed7-72109fe10adf.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447119-828f27dd-06cb-4aad-b4c2-c1a2949fa8ed.png" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/81053917/179447402-622b5734-26eb-4a64-8b42-56990cccd852.png" width="55">&nbsp;
 </div>
 
 ## Github Stats
