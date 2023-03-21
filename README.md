@@ -15,7 +15,7 @@ I am a Computer Science Engineering student at Escuela Politécnica Nacional on 
 
 <ul>
   <li>:frowning_man: Currently working on my personal brand</li>
-  <li>:computer: Learning web development with JS frameworks</li>
+  <li>:computer: Learning web full-stack development with JavaScript and Python frameworks</li>
   <li>:speech_balloon: Contact me through: <a href="https://mail.google.com/mail/u/jg175415@gmail.com">jg175415@gmail.com</a></li>
 </ul>
 
